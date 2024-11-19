@@ -17,9 +17,11 @@ This project demonstrates how to scrape product data from an e-commerce website 
 
 To run this project, ensure you have Python installed and the following Python libraries:
 
-- `requests`
-- `beautifulsoup4`
-- `pandas`
+- `requests`To fetch the HTML content of a webpage.
+- `beautifulsoup4` For parsing HTML and extracting useful data.
+- `pandas`For storing and manipulating the extracted data.
+- matplotlib or seaborn (optional): For visualizing the data once sorted.
+
 
 You can install the required libraries using `pip`:
 
